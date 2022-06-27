@@ -5,4 +5,6 @@ public interface gitlabDao {
 	public String gitLab();
 	
 	public void testMaster(); // rebase and push
+
+	public void gitLabTest(); // main
 }
