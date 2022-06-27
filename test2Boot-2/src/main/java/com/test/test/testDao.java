@@ -18,11 +18,10 @@ public interface testDao {
 	//clone success - master
 	
 	//wow test succes push
-<<<<<<< HEAD
 	
 	//Ok - master - pull success
-=======
 
 	//gitbash test - tttttt
->>>>>>> 01ba904624cd1b5a40ad153d7b509beb90fd9e40
+
+	// master - pullOk - master input and push test
 }
