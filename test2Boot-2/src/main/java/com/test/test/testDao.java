@@ -18,4 +18,6 @@ public interface testDao {
 	//clone success - master
 	
 	//wow test succes push
+	
+	//Ok - master - pull success
 }
